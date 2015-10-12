@@ -36,5 +36,5 @@ Any of Diploma 2015 student list can contribute to project by cloning the projec
 | Code input  | Michael P Deegan   | [mpdeegantafe](https://github.com/mpdeegantafe)   |
 | Code input       | Chris Taylor   | [Christopher08](https://github.com/Christopher08)   |
 | Teacher       | Urshula Beere  | [urshula](https://github.com/urshula)  |
-
+| student       | Daniel Maximiadis  | [Daniel](https://github.com/DanielMaximiadis)  |
 
